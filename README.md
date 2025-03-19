@@ -63,7 +63,7 @@
   <a href="https://www.instagram.com/mohd.aslam_._/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mhdaslamktd@gmail.com" target="_blank">
+  <a href="mailto:mhdaslamktd@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -76,7 +76,7 @@
 
 ###
 
-<p align="left">Visitors count</p>
+<h2 align="left">Visitors count</h2>
 
 ###
 
